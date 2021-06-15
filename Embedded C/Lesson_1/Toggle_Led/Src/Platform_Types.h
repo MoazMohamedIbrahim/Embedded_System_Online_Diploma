@@ -51,7 +51,7 @@ Platform_types.h
 
 
 
-Typedef _Bool  boolean;
+typedef _Bool  boolean;
 typedef unsigned char               uint8;
 typedef unsigned short              uint16;
 typedef signed char                 sint8;
